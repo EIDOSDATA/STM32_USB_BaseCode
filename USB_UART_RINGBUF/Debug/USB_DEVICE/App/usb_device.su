@@ -1,0 +1,5 @@
+usb_device.c:62:6:usb_write	16	static
+usb_device.c:66:9:usb_check_buffer	16	static
+usb_device.c:85:9:usb_get_byte	4	static
+usb_device.c:93:6:usb_receive_data	24	static
+usb_device.c:111:6:MX_USB_DEVICE_Init	8	static
